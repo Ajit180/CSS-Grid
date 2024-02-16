@@ -1,0 +1,14 @@
+Question 3: Explain the use of grid-auto-row and grid-auto-column using code examples.
+
+Solution: 
+
+
+grid-auto-rows
+Purpose: Specifies the size of any auto-created rows in a grid layout. This property comes into play when there are more grid items than rows defined in grid-template-rows.
+Usage: You use grid-auto-rows when you want to control the height of the rows that the grid layout automatically generates for additional items.
+
+
+
+grid-auto-columns
+Purpose: Specifies the size of any auto-created columns in a grid layout. This property is used when there are more grid items than columns defined in grid-template-columns.
+Usage: You use grid-auto-columns when you want to control the width of the columns that the grid layout automatically generates for additional items.
